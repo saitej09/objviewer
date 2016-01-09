@@ -1,0 +1,7 @@
+#include "Matrix2f.cpp"
+#include "Matrix3f.cpp"
+#include "Matrix4f.cpp"
+#include "Quat4f.cpp"
+#include "Vector2f.cpp"
+#include "Vector3f.cpp"
+#include "Vector4f.cpp"
